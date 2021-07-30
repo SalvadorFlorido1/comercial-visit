@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_all_custom_crm_all_custom_visit,full access on create visits,model_custom_crm_visit,sales_team.group_sale_salesman,1,1,1,1
+access_all_custom_crm_all_custom_visit_stage,full access on create stage,model_custom_crm_visit_stage,sales_team.group_sale_salesman,1,1,1,1
