@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "custom_crm",
+    'name': "all_custom_crm",
 
     'summary': """
         CRM addon for comercial visits control
         """,
 
-    'description': """
+    'description': """With this module you could track all visit of your sales agents
     """,
 
     'author': "Salvador Florido",
-    'website': "",
+    'website': "https://www.alliantum.com/",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/12.0/odoo/addons/base/data/ir_module_category_data.xml
